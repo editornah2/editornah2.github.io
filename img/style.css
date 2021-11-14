@@ -324,7 +324,7 @@
     font-size: 14px;
     font-weight: 700;
 /*     min-width: 200px; */
-    width: 300px
+    width: 300px;
     transition: 0.2s;
   }
   .card .button span {
