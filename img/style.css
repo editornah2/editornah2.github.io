@@ -316,14 +316,15 @@
     text-decoration: none;
     background: #666CD9;
     color: #f9f9f9;
+    text-align: center;
     padding: 6px;
     border: none;
-    border-radius: 25px;
+    border-radius: 13px;
     margin-top: 5px;
     font-size: 14px;
     font-weight: 700;
-    min-width: 200px;
-    max-width: 300px
+/*     min-width: 200px; */
+    width: 300px
     transition: 0.2s;
   }
   .card .button span {
