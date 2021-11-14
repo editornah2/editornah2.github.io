@@ -26,7 +26,6 @@
 }   
     .card {
     background: #fff;
-    justify-content: center;
     background-size: contain;
     text-align: center;
     padding: 1em;
@@ -313,22 +312,17 @@
     font-size: 14px;
   }
   .card .button {
-    display: flex;
-    justify-content: center;
-/*     text-decoration: none; */
+    display: block;
+    text-decoration: none;
     background: #666CD9;
-    align: center;
     color: #f9f9f9;
-    text-align: center;
-    padding: 12px;
-/*     border: none; */
-    border-radius: 13px;
+    padding: 6px;
+    border: none;
+    border-radius: 25px;
     margin-top: 5px;
     font-size: 14px;
     font-weight: 700;
     min-width: 200px;
-    max-width: 400px;
-/*     width: 400px; */
     transition: 0.2s;
   }
   .card .button span {
