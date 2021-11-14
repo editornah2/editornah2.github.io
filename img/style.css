@@ -312,7 +312,7 @@
     font-size: 14px;
   }
   .card .button {
-/*     display: block;
+    display: block;
     text-decoration: none;
     background: #666CD9;
     color: #f9f9f9;
@@ -323,16 +323,8 @@
     font-size: 14px;
     font-weight: 700;
     min-width: 200px;
-    transition: 0.2s; */
-        background: #1788ff;
-    border-radius: 13px;
-    width: 300px;
-    text-align: center;
-    padding: 13px ;
-    font-size: 12pt;
-    font-weight: 100;
-    color: #fff;
-    margin: 4px 0;
+    max-width: 300px
+    transition: 0.2s;
   }
   .card .button span {
     font-size: 20px;
